@@ -1,0 +1,42 @@
+Source Specific Changelog :-
+
+* Added a new Boot animation
+  (Thanks to @theoj22)
+* Fixed Substratum issues
+* Fixed HW keys wakeup
+* Fixed Partial screenshot
+* Fixed Statusbar brightness control
+* Fixed One handed mode
+* Fixed Autofill dialog on dark/black themes
+* Fixed QS edit background on dark/black themes
+* Fixed crash on user switch
+* Fixed Carrier label visibility
+* Fixed Rounded corner bugs
+* Fixed some theme application issues
+* Fixed Statusbar padding
+* Fixed Quick QS panel layout
+* Fixed Auto rotation bugs
+* Fixed Ambient Play History crash
+* Fixed Ambient Play History background on dark/black themes
+* Fixed statusbar notification icons shift glitch
+* Fixed tint of notification icons in dark/black themes
+* Fixed Wifi activity indicators
+* Fixed Screensaver crash
+* Added Material Design 2 switches
+* Added Notification theme selector
+* Added QS Header styles
+* Added new brightness slider layout
+* Added Less boring heads up option
+* Added option to pass swipe-up-to-unlock
+* Added Hide QS information header
+* Added Hide QS drag handle
+* Added 7 new QS Tile styles
+* Added Lockscreen clock font size
+* Added Lockscreen date font size
+* Added some more MD2 icons in package installer and system
+* Redesigned Ambient Play History with MD2
+* Improved ambient display settings
+
+Device Specific Changelog :- 
+*Added Xiaomi Parts
+*Fixed Offline Charging [Charging In Shutdown State]
